@@ -11,3 +11,5 @@ public class BackendApplication {
     }
 
 }
+
+//backend 폴더 생성
